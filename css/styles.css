@@ -1,12 +1,20 @@
+/*
+File: styles.css
+GUI Assignment: A CSS file that linked to the main page which change the size of image and do some other styling to all html files. 
+Yingchi Lin, UMass Lowell Computer Science, yingchi_Lin@student.uml.edu
+Copyright (c) 2022 by Yingchi. All rights reserved. May be freely copied or excerpted for educational purposes with credit to the author.
+May 25, 2022
+*/
+
 body {
     background-color: #EAF6F6;
     padding: 20px;
 }
 
 hr {
-    background-color: white;
+    background-color: #2F8F9D;
     border-style: none;
-    height: 2px;
+    height: 1px;
 }
 
 
